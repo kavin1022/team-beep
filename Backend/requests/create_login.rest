@@ -2,10 +2,10 @@ POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "username": "jesus",
-    "name": "Jesus Christ",
+    "username": "Darren",
+    "name": "Darren Fisher",
     "password": "secret",
-    "location": "West Akl",
-    "quote": "Hahahahahha"
+    "location": "South Akl",
+    "quote": "Been binging tv shows, lets have a eat"
 }
 
